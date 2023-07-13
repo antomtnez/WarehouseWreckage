@@ -3226,3 +3226,557 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.13-14.37.02:936][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.13-14.37.02:938][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.13-14.37.02:938][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.44.07:697][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.44.07:832][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.07.13-14.44.07:851][667]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.44.07:852][667]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default9EC1F937422E20B85B16208E4102CB9A.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.44.07:864][667]LogFileHelpers: No new changes to save!
+[2023.07.13-14.44.07:864][667]LogFileHelpers: Saving map 'Minimal_Default' took 0.093
+[2023.07.13-14.44.07:870][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 2.46 sec)
+[2023.07.13-14.44.07:877][667]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.44.07:877][667]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.45.00:461][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.00:462][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.00:462][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.00:463][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.00:463][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.00:465][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.12:580][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.12:581][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.12:581][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.12:582][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.12:583][309]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.45.31:550][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.45.31:682][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.07.13-14.45.31:700][489]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.45.31:700][489]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default72667E9C43355CB756C7A48C6BEFABC0.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.45.31:709][489]LogFileHelpers: No new changes to save!
+[2023.07.13-14.45.31:709][489]LogFileHelpers: Saving map 'Minimal_Default' took 0.079
+[2023.07.13-14.45.31:714][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.62 sec)
+[2023.07.13-14.45.31:722][489]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.45.31:722][489]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.47.29:425][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.47.29:430][957]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.47.29:431][957]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.47.29:558][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.13-14.47.29:560][957]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2023.07.13-14.47.29:561][957]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:47:29)
+[2023.07.13-14.47.29:561][957]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.47.29:565][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004475s)
+[2023.07.13-14.47.29:565][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004526s)
+[2023.07.13-14.47.29:565][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.47.29:566][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.47.29:566][957]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.47.29:567][957]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2023.07.13-14.47.29:598][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.07.13-14.47.29:599][957]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.47.29:599][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.47.29:599][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.47.29:600][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.47.29:600][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.47.29:600][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.47.29:602][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.47.29:638][957]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.47.29:638][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.47.29:638][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.47.29:638][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.47.29:640][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.07.13-14.47.29:640][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.07.13-14.47.29:642][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.07.13-14.47.29:642][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.07.13-14.47.29:643][957]LogInit: FAudioDevice initialized with ID 22.
+[2023.07.13-14.47.29:643][957]LogAudio: Display: Audio Device (ID: 22) registered with world 'Minimal_Default'.
+[2023.07.13-14.47.29:643][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.07.13-14.47.29:659][957]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.47.29:662][957]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.47.29
+[2023.07.13-14.47.29:663][957]LogWorld: Bringing up level for play took: 0.003419
+[2023.07.13-14.47.29:671][957]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.07.13-14.47.29:672][957]LogBlueprintUserMessages: [Minimal_Default_C_6] Welcome to Warehouse Wreckage!
+[2023.07.13-14.47.29:672][957]LogBlueprintUserMessages: [Minimal_Default_C_6] This is a second message on screen
+[2023.07.13-14.47.29:672][957]PIE: Server logged in
+[2023.07.13-14.47.29:674][957]PIE: Play in editor total start time 0,243 seconds.
+[2023.07.13-14.47.29:682][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:683][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:683][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:684][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:684][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:685][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:686][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.29:687][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:255][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.47.38:255][176]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.47.38:255][176]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.47.38:256][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.47.38:264][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.47.38:273][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.47.38:308][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.47.38:308][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.07.13-14.47.38:308][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.07.13-14.47.38:332][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.07.13-14.47.38:339][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.07.13-14.47.38:354][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:354][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:355][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:355][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:356][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:357][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:358][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.38:383][177]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.07.13-14.47.48:322][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.47.48:465][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.07.13-14.47.48:483][222]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.47.48:483][222]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_DefaultB1D7E91E4B38C557DA27FBA280437F42.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.47.48:495][222]LogFileHelpers: No new changes to save!
+[2023.07.13-14.47.48:495][222]LogFileHelpers: Saving map 'Minimal_Default' took 0.088
+[2023.07.13-14.47.48:501][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 2.80 sec)
+[2023.07.13-14.47.48:509][222]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.47.48:509][222]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.47.56:937][676]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.47.56:942][676]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.47.56:943][676]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.47.57:001][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.07.13-14.47.57:003][676]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2023.07.13-14.47.57:003][676]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:47:57)
+[2023.07.13-14.47.57:004][676]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.47.57:007][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003778s)
+[2023.07.13-14.47.57:007][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003816s)
+[2023.07.13-14.47.57:007][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.47.57:008][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.47.57:008][676]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.47.57:008][676]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2023.07.13-14.47.57:034][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.07.13-14.47.57:034][676]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.47.57:035][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.47.57:035][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.47.57:035][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.47.57:035][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.47.57:035][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.47.57:040][676]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.47.57:077][676]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.47.57:078][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.47.57:078][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.47.57:078][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.47.57:079][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.07.13-14.47.57:079][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.07.13-14.47.57:084][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.07.13-14.47.57:084][676]LogInit: FAudioDevice initialized with ID 23.
+[2023.07.13-14.47.57:084][676]LogAudio: Display: Audio Device (ID: 23) registered with world 'Minimal_Default'.
+[2023.07.13-14.47.57:084][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.07.13-14.47.57:084][676]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.07.13-14.47.57:090][676]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.47.57:091][676]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.47.57
+[2023.07.13-14.47.57:092][676]LogWorld: Bringing up level for play took: 0.001152
+[2023.07.13-14.47.57:098][676]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.07.13-14.47.57:099][676]LogBlueprintUserMessages: [Minimal_Default_C_7] Welcome to Warehouse Wreckage!
+[2023.07.13-14.47.57:099][676]LogBlueprintUserMessages: [Minimal_Default_C_7] This is a second message on screen
+[2023.07.13-14.47.57:099][676]PIE: Server logged in
+[2023.07.13-14.47.57:100][676]PIE: Play in editor total start time 0,158 seconds.
+[2023.07.13-14.47.57:149][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:149][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:150][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:150][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:151][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:151][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:152][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.47.57:153][676]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:046][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.48.35:046][203]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.48.35:046][203]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.48.35:047][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.48.35:080][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.48.35:090][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.48.35:135][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.48.35:135][203]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.07.13-14.48.35:136][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.13-14.48.35:138][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.13-14.48.35:146][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.07.13-14.48.35:176][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:176][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:177][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:177][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:178][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:180][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:180][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.35:203][204]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.07.13-14.48.57:923][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.48.57:929][757]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.48.57:929][757]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.48.57:986][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.07.13-14.48.57:988][757]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2023.07.13-14.48.57:988][757]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:48:57)
+[2023.07.13-14.48.57:988][757]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.48.57:992][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2023.07.13-14.48.57:992][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003760s)
+[2023.07.13-14.48.57:992][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.48.57:992][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.48.57:992][757]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.48.57:992][757]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2023.07.13-14.48.58:020][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.07.13-14.48.58:021][757]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.48.58:021][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.48.58:021][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.48.58:022][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.48.58:022][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.48.58:022][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.48.58:026][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.48.58:063][757]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.48.58:064][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.48.58:064][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.48.58:064][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.48.58:067][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.07.13-14.48.58:067][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.07.13-14.48.58:071][757]LogInit: FAudioDevice initialized with ID 24.
+[2023.07.13-14.48.58:071][757]LogAudio: Display: Audio Device (ID: 24) registered with world 'Minimal_Default'.
+[2023.07.13-14.48.58:071][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.07.13-14.48.58:071][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.07.13-14.48.58:071][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.07.13-14.48.58:076][757]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.48.58:077][757]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.48.58
+[2023.07.13-14.48.58:077][757]LogWorld: Bringing up level for play took: 0.001156
+[2023.07.13-14.48.58:081][757]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.07.13-14.48.58:090][757]LogBlueprintUserMessages: [Minimal_Default_C_8] Welcome to Warehouse Wreckage!
+[2023.07.13-14.48.58:090][757]LogBlueprintUserMessages: [Minimal_Default_C_8] This is a second message on screen
+[2023.07.13-14.48.58:090][757]PIE: Server logged in
+[2023.07.13-14.48.58:092][757]PIE: Play in editor total start time 0,164 seconds.
+[2023.07.13-14.48.58:122][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:124][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:125][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:126][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:127][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:129][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:132][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.48.58:133][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:496][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.49.36:496][946]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.49.36:496][946]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.49.36:496][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.49.36:519][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.49.36:527][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.49.36:566][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.49.36:566][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.07.13-14.49.36:567][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.07.13-14.49.36:571][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.07.13-14.49.36:584][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.07.13-14.49.36:614][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:615][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:615][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:616][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:616][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:618][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:618][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.49.36:641][947]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.13-14.49.38:957][949]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.13-14.49.45:979][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.49.46:053][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.07.13-14.49.46:070][723]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.49.46:071][723]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default3373F8054011B6B9E4546FB6CFB3A34A.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.49.46:092][723]LogFileHelpers: No new changes to save!
+[2023.07.13-14.49.46:092][723]LogFileHelpers: Saving map 'Minimal_Default' took 0.076
+[2023.07.13-14.49.46:097][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.92 sec)
+[2023.07.13-14.49.46:105][723]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.49.46:105][723]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.50.09:028][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.50.09:143][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.07.13-14.50.09:168][439]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.50.09:169][439]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default4185BE82456EC3592E715499B8C287AB.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.50.09:178][439]LogFileHelpers: No new changes to save!
+[2023.07.13-14.50.09:178][439]LogFileHelpers: Saving map 'Minimal_Default' took 0.088
+[2023.07.13-14.50.09:184][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.08 sec)
+[2023.07.13-14.50.09:191][439]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.50.09:191][439]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.50.31:899][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.50.31:905][879]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.50.31:905][879]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.50.31:981][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.07.13-14.50.31:983][879]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2023.07.13-14.50.31:983][879]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:50:31)
+[2023.07.13-14.50.31:984][879]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.50.31:988][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003634s)
+[2023.07.13-14.50.31:988][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003673s)
+[2023.07.13-14.50.31:988][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.50.31:988][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.50.31:989][879]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.50.31:989][879]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.07.13-14.50.32:017][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.07.13-14.50.32:018][879]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.50.32:018][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.50.32:018][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.50.32:019][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.50.32:019][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.50.32:019][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.50.32:022][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.50.32:058][879]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.50.32:058][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.50.32:058][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.50.32:058][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.50.32:059][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.07.13-14.50.32:059][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.07.13-14.50.32:062][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.07.13-14.50.32:062][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.07.13-14.50.32:062][879]LogInit: FAudioDevice initialized with ID 25.
+[2023.07.13-14.50.32:062][879]LogAudio: Display: Audio Device (ID: 25) registered with world 'Minimal_Default'.
+[2023.07.13-14.50.32:062][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.07.13-14.50.32:066][879]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.50.32:067][879]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.50.32
+[2023.07.13-14.50.32:067][879]LogWorld: Bringing up level for play took: 0.001146
+[2023.07.13-14.50.32:071][879]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.07.13-14.50.32:073][879]LogBlueprintUserMessages: [Minimal_Default_C_9] Welcome to Warehouse Wreckage!
+[2023.07.13-14.50.32:073][879]LogBlueprintUserMessages: [Minimal_Default_C_9] This is a second message on screen
+[2023.07.13-14.50.32:073][879]PIE: Server logged in
+[2023.07.13-14.50.32:074][879]PIE: Play in editor total start time 0,17 seconds.
+[2023.07.13-14.50.32:138][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:140][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:141][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:142][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:143][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:145][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:148][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.32:149][879]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:056][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.50.46:056][432]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.50.46:056][432]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.50.46:057][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.50.46:065][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.50.46:073][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.50.46:110][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.50.46:111][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.07.13-14.50.46:111][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.07.13-14.50.46:115][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.07.13-14.50.46:122][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.07.13-14.50.46:153][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:154][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:155][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:156][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:157][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:161][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:161][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.46:190][433]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.07.13-14.50.47:756][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:756][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:757][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:758][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:758][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:759][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.47:760][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.50.56:291][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.50.56:437][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.13-14.50.56:454][169]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.50.56:455][169]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default368A31234E20193F062D5F9CC4D7612D.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.50.56:466][169]LogFileHelpers: No new changes to save!
+[2023.07.13-14.50.56:467][169]LogFileHelpers: Saving map 'Minimal_Default' took 0.070
+[2023.07.13-14.50.56:472][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 3.26 sec)
+[2023.07.13-14.50.56:478][169]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.50.56:478][169]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.50.59:616][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:097][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:097][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:156][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:157][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:172][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:792][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:794][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.00:847][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.26:856][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.51.26:970][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.13-14.51.26:990][110]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.51.26:990][110]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default628523C344BEB993E63EB4A7A9A741FB.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.51.27:000][110]LogFileHelpers: No new changes to save!
+[2023.07.13-14.51.27:000][110]LogFileHelpers: Saving map 'Minimal_Default' took 0.081
+[2023.07.13-14.51.27:005][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.41 sec)
+[2023.07.13-14.51.27:011][110]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.51.27:011][110]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.51.30:624][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.51.30:629][382]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.51.30:630][382]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.51.30:683][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.07.13-14.51.30:685][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2023.07.13-14.51.30:685][382]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:51:30)
+[2023.07.13-14.51.30:685][382]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.51.30:689][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003522s)
+[2023.07.13-14.51.30:689][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003556s)
+[2023.07.13-14.51.30:689][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.51.30:689][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.51.30:689][382]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.51.30:690][382]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2023.07.13-14.51.30:716][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.07.13-14.51.30:717][382]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.51.30:717][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.51.30:717][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.51.30:718][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.51.30:718][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.51.30:718][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.51.30:721][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.51.30:758][382]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.51.30:759][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.51.30:759][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.51.30:759][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.51.30:761][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.07.13-14.51.30:761][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.07.13-14.51.30:765][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.07.13-14.51.30:765][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.07.13-14.51.30:765][382]LogInit: FAudioDevice initialized with ID 26.
+[2023.07.13-14.51.30:765][382]LogAudio: Display: Audio Device (ID: 26) registered with world 'Minimal_Default'.
+[2023.07.13-14.51.30:765][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.07.13-14.51.30:770][382]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.51.30:771][382]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.51.30
+[2023.07.13-14.51.30:772][382]LogWorld: Bringing up level for play took: 0.001155
+[2023.07.13-14.51.30:778][382]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.07.13-14.51.30:779][382]LogBlueprintUserMessages: [Minimal_Default_C_10] Welcome to Warehouse Wreckage!
+[2023.07.13-14.51.30:779][382]LogBlueprintUserMessages: [Minimal_Default_C_10] This is a second message on screen
+[2023.07.13-14.51.30:779][382]PIE: Server logged in
+[2023.07.13-14.51.30:780][382]PIE: Play in editor total start time 0,152 seconds.
+[2023.07.13-14.51.30:810][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:811][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:811][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:812][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:812][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:813][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:814][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.51.30:814][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:195][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.52.28:196][624]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.52.28:196][624]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.52.28:196][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.52.28:202][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.52.28:207][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.52.28:240][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.52.28:240][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.07.13-14.52.28:241][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.07.13-14.52.28:255][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.07.13-14.52.28:263][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.07.13-14.52.28:290][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:291][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:291][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:292][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:292][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:294][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:294][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.52.28:317][625]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.07.13-14.53.01:860][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.53.01:958][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.07.13-14.53.01:976][391]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.53.01:977][391]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_DefaultE3A6750C4AFFF5622F634CAE1AF8BF60.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.53.01:988][391]LogFileHelpers: No new changes to save!
+[2023.07.13-14.53.01:988][391]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.07.13-14.53.01:994][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.54 sec)
+[2023.07.13-14.53.02:002][391]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.53.02:002][391]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.13-14.53.12:553][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.13-14.53.12:559][172]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.13-14.53.12:559][172]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2023.07.13-14.53.12:620][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.07.13-14.53.12:621][172]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2023.07.13-14.53.12:621][172]PIE: New page: PIE session: Minimal_Default (13 jul. 2023 18:53:12)
+[2023.07.13-14.53.12:621][172]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.53.12:625][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003830s)
+[2023.07.13-14.53.12:625][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003866s)
+[2023.07.13-14.53.12:625][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.13-14.53.12:625][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.13-14.53.12:626][172]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.13-14.53.12:626][172]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2023.07.13-14.53.12:652][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.07.13-14.53.12:653][172]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.13-14.53.12:653][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.13-14.53.12:653][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.13-14.53.12:653][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.13-14.53.12:653][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.13-14.53.12:653][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.13-14.53.12:657][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.13-14.53.12:691][172]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (Sennheiser SC60 for Lync)
+[2023.07.13-14.53.12:692][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.13-14.53.12:692][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.13-14.53.12:692][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.13-14.53.12:693][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.07.13-14.53.12:693][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.07.13-14.53.12:696][172]LogInit: FAudioDevice initialized with ID 27.
+[2023.07.13-14.53.12:696][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.07.13-14.53.12:696][172]LogAudio: Display: Audio Device (ID: 27) registered with world 'Minimal_Default'.
+[2023.07.13-14.53.12:696][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.07.13-14.53.12:696][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.07.13-14.53.12:701][172]LogLoad: Game class is 'GameModeBase'
+[2023.07.13-14.53.12:702][172]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.07.13-16.53.12
+[2023.07.13-14.53.12:702][172]LogWorld: Bringing up level for play took: 0.001156
+[2023.07.13-14.53.12:706][172]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.07.13-14.53.12:707][172]LogBlueprintUserMessages: [Minimal_Default_C_11] Welcome to Warehouse Wreckage!
+[2023.07.13-14.53.12:707][172]LogBlueprintUserMessages: [Minimal_Default_C_11] This is a second message on screen
+[2023.07.13-14.53.12:707][172]PIE: Server logged in
+[2023.07.13-14.53.12:709][172]PIE: Play in editor total start time 0,15 seconds.
+[2023.07.13-14.53.12:746][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:746][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:747][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:747][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:748][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:749][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:750][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.53.12:750][172]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:876][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.54.03:876][859]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.07.13-14.54.03:876][859]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.13-14.54.03:876][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.54.03:892][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.13-14.54.03:898][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.13-14.54.03:925][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.13-14.54.03:926][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.07.13-14.54.03:926][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.07.13-14.54.03:929][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.07.13-14.54.03:944][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.13-14.54.03:971][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:971][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:972][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:972][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:973][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:974][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:975][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.03:998][860]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.07.13-14.54.14:629][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:630][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:632][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:633][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:635][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:636][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.14:640][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.13-14.54.15:212][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.13-14.54.15:340][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.13-14.54.15:360][985]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.07.13-14.54.15:360][985]LogSavePackage: Moving '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default8932EF2C4C448F39A070B3801198839C.tmp' to '../../../../../../Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.07.13-14.54.15:370][985]LogFileHelpers: No new changes to save!
+[2023.07.13-14.54.15:370][985]LogFileHelpers: Saving map 'Minimal_Default' took 0.077
+[2023.07.13-14.54.15:377][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.71 sec)
+[2023.07.13-14.54.15:385][985]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.07.13-14.54.15:385][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
