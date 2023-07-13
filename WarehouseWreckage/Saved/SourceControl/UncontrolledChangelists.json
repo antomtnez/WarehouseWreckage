@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Unreality/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Projectile.uasset"
 			]
 		}
 	]
